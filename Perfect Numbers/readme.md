@@ -1,0 +1,3 @@
+Perfect Numbers
+
+https://practice.geeksforgeeks.org/problems/perfect-numbers3207/1
